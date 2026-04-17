@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.swp
+.DS_Store
+apkxray_output/
+*_extracted/
+
+# local test APKs — don't bloat the repo with large binaries
+*.apk
+
+# personal drafts (telegram post etc) — not repo content
+TELEGRAM_POST.md
+PRE_PUSH_CHECKLIST.md
+
