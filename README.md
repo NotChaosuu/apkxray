@@ -165,7 +165,7 @@ Point it at any APK pulled from a program's mobile target. The quickest wins:
 
 - [tlsprint](https://github.com/NotChaosuu/tlsprint) — TLS JA3/JA4 fingerprint analyzer
 - [authmap](https://github.com/NotChaosuu/authmap) — auth flow mapper + vuln scanner
-- **apkxray** — APK security analyzer (you are here)
+- **apkxray** — APK security analyzer
 
 ## License
 
