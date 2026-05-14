@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "apkxray"
-version = "0.1.0"
-description = "X-ray Android APKs for secrets, permissions, endpoints, and security issues"
+version = "0.2.0"
+description = "X-ray Android APKs and bundles for secrets, SDKs, deep links, endpoints, and security issues"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [{name = "Chaosuu"}]
@@ -39,3 +39,6 @@ Homepage      = "https://github.com/NotChaosuu/apkxray"
 Repository    = "https://github.com/NotChaosuu/apkxray"
 Issues        = "https://github.com/NotChaosuu/apkxray/issues"
 Telegram      = "https://t.me/chaosuudev"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
